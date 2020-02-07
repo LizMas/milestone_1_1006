@@ -1,0 +1,13 @@
+---
+title: "Milestone 1"
+author: "Liz Masten"
+date: "2/7/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+I am planning to replicate a paper by Michael Findley, James Piazza, and Joseph Young titled "Games Rivals Play: Terrorism in International Rivalries," appearing in The Journal of Politics, Vol. 74, No. 1, January 2012, Pp. 235-248. This paper analyzes transnational terrorism as a component of interstate rivalries, specifically focusing on the use of terrorism in proxy warfighting. 
+
+Replication materials are available <a href = "http://journals.cambridge.org/jop">here</a>. My thanks go to Professor Erica Chennoweth for suggesting this paper. 
